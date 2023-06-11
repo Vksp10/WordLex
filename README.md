@@ -11,7 +11,7 @@ HTML
 CSS
 JavaScript
 # Usage
-Simply open the [index.html] file in a web browser to access WordLex. Enter a word in the search bar to retrieve its definition and explore additional features.
+Simply open the [[index.html]](https://github.com/Vksp10/WordLex/blob/main/index.html) file in a web browser to access WordLex. Enter a word in the search bar to retrieve its definition and explore additional features.
 
 # Contributing
 Contributions are welcome! If you would like to enhance the features or fix any issues, please submit a pull request. Ensure that your code follows the project's coding conventions.
