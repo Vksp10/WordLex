@@ -1,4 +1,4 @@
-# WorldLex
+# WordLex
 WordLex is an interactive online dictionary built using HTML, CSS, and JavaScript. It provides users with a user-friendly and efficient tool for looking up word definitions and expanding their vocabulary.
 
 # Features
