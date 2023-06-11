@@ -16,7 +16,5 @@ Simply open the index.html file in a web browser to access WordLex. Enter a word
 # Contributing
 Contributions are welcome! If you would like to enhance the features or fix any issues, please submit a pull request. Ensure that your code follows the project's coding conventions.
 
-# License
-This project is licensed under the MIT License.
 
 Feel free to provide any feedback or suggestions. Happy word exploring!
